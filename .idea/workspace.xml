@@ -4,85 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bf4aff4-15d9-49bb-b007-8c6ae30e3096" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwSkills.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment1/AreaRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment1/AsciiValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment1/CubeOfNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment1/ProductOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment1/SwappingTwoNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment2/InputConcatenateLineStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment2/InputConcatenatedString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment2/InputMarksPercentage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment2/InputNameRoll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment2/InputSumOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment3/BasicOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment3/BitsFlippedNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment3/SumOf3DigitNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment3/SwapTwoWithout3rdVar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment3/VariableCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment4/CalculateGrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment4/CalculateProfitLoss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment4/CheckIfSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment4/NegativeNumSkipped.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment4/PrintAbsoluteValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment4/SwitchCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment5/CountInputSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment5/LoopsArmstrongNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment5/LoopsBulbProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment5/LoopsFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment5/LoopsFibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment5/LoopsPattern1Cross.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment5/LoopsPattern2Diamond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment5/LoopsPattern3Plus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment5/LoopsPattern4Pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment5/LoopsSumOfPrimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment6/BinaryToDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment6/DecimalToBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment6/DoubleToBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment6/MultiplyDifferentBases.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment6/SumDifferentBases.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment7/TestAreaRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment7/TestComplex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment7/TestEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment7/TestStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment7/TestTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment8/AverageOfThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment8/CountVowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment8/DisplayMiddleString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment8/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment8/SmallestOfThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BreakFirstMultiple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalOprAND.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalOprOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContinueMultiplesOf3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DoWhileSumInputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForReverseNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForSumNaturalNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops2Pattern1Rect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops2Pattern2Rect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops2Pattern3Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops2Pattern4Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops2Pattern5Pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops2Pattern6Rect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops2Pattern7Rect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops2Pattern8Rect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops2Pattern9Pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopsARaisedB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopsAddDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopsCountDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopsFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopsReverseDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopsSeriesSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchCaseDaysOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileSumNaturalNumbers.java" afterDir="false" />
+    <list default="true" id="2bf4aff4-15d9-49bb-b007-8c6ae30e3096" name="Changes" comment="Assignments">
+      <change afterPath="$PROJECT_DIR$/src/Assignment9/ArrEvenElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment9/ArrMinElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment9/ArrOddIndices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment9/ArrPeakElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment9/ArrPositiveValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +62,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667543174045</updated>
     </task>
+    <task id="LOCAL-00001" summary="Assignments">
+      <created>1673235606699</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673235606699</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Assignments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignments" />
   </component>
 </project>
