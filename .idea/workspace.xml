@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bf4aff4-15d9-49bb-b007-8c6ae30e3096" name="Changes" comment="Assignments">
-      <change afterPath="$PROJECT_DIR$/src/Assignment9/ArrEvenElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment9/ArrMinElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment9/ArrOddIndices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment9/ArrPeakElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment9/ArrPositiveValues.java" afterDir="false" />
+    <list default="true" id="2bf4aff4-15d9-49bb-b007-8c6ae30e3096" name="Changes" comment="Assignment 9">
+      <change afterPath="$PROJECT_DIR$/src/ArrayKthMinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment10/ArrEquality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment10/ArrKthMinimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment10/ArrPositiveNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment10/ArrSumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment10/ArrUnion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +28,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="dcf62727-eacd-4f05-bef5-a4cbe92e768c" />
+        <option name="url" value="https://github.com/aab1d/pwSkills.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Assignment5/LoopsArmstrongNum.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Assignment7/TestComplex.java" root0="FORCE_HIGHLIGHTING" />
@@ -42,17 +56,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673235606699</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Assignment 9">
+      <created>1673263433701</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673263433701</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Assignments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignments" />
+    <MESSAGE value="Assignment 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 9" />
   </component>
 </project>
