@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bf4aff4-15d9-49bb-b007-8c6ae30e3096" name="Changes" comment="Assignment 9">
-      <change afterPath="$PROJECT_DIR$/src/ArrayKthMinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment10/ArrEquality.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment10/ArrKthMinimum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment10/ArrPositiveNegative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment10/ArrSumSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment10/ArrUnion.java" afterDir="false" />
+    <list default="true" id="2bf4aff4-15d9-49bb-b007-8c6ae30e3096" name="Changes" comment="Assignment 10">
+      <change afterPath="$PROJECT_DIR$/src/Assignment11/ArrElementDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment11/ArrFindMissing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment11/ArrOccurrences.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673263433701</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Assignment 10">
+      <created>1673453532066</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673453532066</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +111,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Assignments" />
     <MESSAGE value="Assignment 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment 9" />
+    <MESSAGE value="Assignment 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 10" />
   </component>
 </project>
