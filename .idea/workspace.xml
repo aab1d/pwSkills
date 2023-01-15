@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bf4aff4-15d9-49bb-b007-8c6ae30e3096" name="Changes" comment="Assignment 10">
-      <change afterPath="$PROJECT_DIR$/src/Assignment11/ArrElementDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment11/ArrFindMissing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment11/ArrOccurrences.java" afterDir="false" />
+    <list default="true" id="2bf4aff4-15d9-49bb-b007-8c6ae30e3096" name="Changes" comment="Assignment 11">
+      <change afterPath="$PROJECT_DIR$/src/Assignment12/ArrArrangePosNeg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment12/ArrDepartureArrival.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment12/ArrFirstRepeating.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +97,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673453532066</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Assignment 11">
+      <created>1673541187346</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673541187346</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Assignment 11">
+      <created>1673541194658</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673541194658</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +129,7 @@
     <MESSAGE value="Assignments" />
     <MESSAGE value="Assignment 9" />
     <MESSAGE value="Assignment 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment 10" />
+    <MESSAGE value="Assignment 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 11" />
   </component>
 </project>
