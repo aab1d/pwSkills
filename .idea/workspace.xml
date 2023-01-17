@@ -7,10 +7,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bf4aff4-15d9-49bb-b007-8c6ae30e3096" name="Changes" comment="Assignment 11">
-      <change afterPath="$PROJECT_DIR$/src/Assignment12/ArrArrangePosNeg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment12/ArrDepartureArrival.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment12/ArrFirstRepeating.java" afterDir="false" />
+    <list default="true" id="2bf4aff4-15d9-49bb-b007-8c6ae30e3096" name="Changes" comment="Assignment 12">
+      <change afterPath="$PROJECT_DIR$/src/Assignment13/ArrElementSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment13/ArrMostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment13/ArrOddSubArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment13/ArrSquaresSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment13/ArrUniqueIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment14/ArrDivideByMaxDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment14/ArrEqualBinarySubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment14/ArrHighestAltitude.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment14/ArrLeftmostMiddleIndex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673541194658</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Assignment 12">
+      <created>1673792027369</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673792027369</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +143,7 @@
     <MESSAGE value="Assignment 9" />
     <MESSAGE value="Assignment 10" />
     <MESSAGE value="Assignment 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment 11" />
+    <MESSAGE value="Assignment 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 12" />
   </component>
 </project>
