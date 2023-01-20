@@ -15,6 +15,6 @@ public class LoopsSeriesSum {
             }
             else sum -=i;
         }
-        System.out.println("Sum of the series upto " + n + " is: " + sum);
+        System.out.println("Sum of the series up-to " + n + " is: " + sum);
     }
 }
