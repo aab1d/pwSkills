@@ -16,7 +16,7 @@ public class RecIfArmstrong {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number: ");
         int num = sc.nextInt();
-        if(sumCubeDigits(num) == num)  System.out.println(num + " is an Armstrong number.");
-        else System.out.println(num + " is not an armstrong number.");
+        if(sumCubeDigits(num) == num)  System.out.println("Yes");
+        else System.out.println("No");
     }
 }

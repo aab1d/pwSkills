@@ -7,8 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bf4aff4-15d9-49bb-b007-8c6ae30e3096" name="Changes" comment="Assignment 21">
-      <change beforePath="$PROJECT_DIR$/src/RecRemoveChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RecRemoveChar.java" afterDir="false" />
+    <list default="true" id="2bf4aff4-15d9-49bb-b007-8c6ae30e3096" name="Changes" comment="added comments">
+      <change beforePath="$PROJECT_DIR$/src/Assignment21/RecIfArmstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment21/RecIfArmstrong.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674383393251</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="added comments">
+      <created>1674383782332</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1674383782332</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,7 +220,8 @@
     <MESSAGE value="Assignment 16" />
     <MESSAGE value="Assignment 18" />
     <MESSAGE value="Assignment 21" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment 21" />
+    <MESSAGE value="added comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="added comments" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
