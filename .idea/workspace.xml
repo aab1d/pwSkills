@@ -8,13 +8,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bf4aff4-15d9-49bb-b007-8c6ae30e3096" name="Changes" comment="Assignment 18">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment20/RecMthSummation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment20/RecSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecSummation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment21/RecIfArmstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment21/RecIfPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment21/RecProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment21/RecToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment21/RecToGrayCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecRemoveChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecTotalDigits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LoopsSeriesSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoopsSeriesSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,7 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../../Program Files/jdk-15/lib/src.zip!/java.base/java/io/FileInputStream.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Assignment20/RecMthSummation.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Assignment5/LoopsArmstrongNum.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Assignment7/TestComplex.java" root0="FORCE_HIGHLIGHTING" />
@@ -181,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674215425769</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Assignment 18">
+      <created>1674232704043</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674232704043</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +213,16 @@
     <MESSAGE value="Assignment 16" />
     <MESSAGE value="Assignment 18" />
     <option name="LAST_COMMIT_MESSAGE" value="Assignment 18" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
