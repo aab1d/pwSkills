@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//This program prints the sum of integers unless the user enters -1, then it exits the program.
 public class DoWhileSumInputStream {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

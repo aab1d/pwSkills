@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//This recursive program gives the sum of numbers from 1 up-to 'n' (entered by user).
 public class RecSummation {
     static int summation(int n) {
         if(n == 0) {

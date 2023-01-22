@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//This program gives the total digits present in an integer input.
 public class RecTotalDigits {
     static int totalDigits(int n) {
         if (n == 0) return 0;

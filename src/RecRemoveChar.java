@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//This program removes the letter 'b' from an input string and prints the rest string as it is
 public class RecRemoveChar {
     static String removedB(String input) {
         if(input.length() == 0) return "";
